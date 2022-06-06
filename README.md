@@ -1,4 +1,6 @@
 # SolarSystem
 Site desenvolvido para estudar Css Flex Box e Html5, desenvolvido durante o curso da Origamid.
 
-https://lepleen.github.io/SolarSystem/
+
+<a href="(https://lepleen.github.io/SolarSystem/)" target="_blank">https://lepleen.github.io/SolarSystem/</a>
+
